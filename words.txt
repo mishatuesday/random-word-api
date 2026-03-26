@@ -35,7 +35,6 @@ accusing
 acerbic
 achievable
 aching
-acid
 acidic
 acknowledged
 acoustic
@@ -97,6 +96,7 @@ airsick
 ajar
 alarmed
 alarming
+aleatoric
 alert
 algebraic
 alien
@@ -108,7 +108,6 @@ all-around
 alleged
 allowable
 all-purpose
-all-too-common
 alluring
 allusive
 alone
@@ -287,7 +286,6 @@ best
 betrayed
 better
 betteroff
-better-late-than-never
 bewildered
 bewildering
 bewitched
@@ -295,10 +293,8 @@ bewitching
 biased
 biblical
 big
-big-city
 bigger
 biggest
-big-headed
 bighearted
 bigoted
 bilingual
@@ -314,7 +310,6 @@ biting
 bitter
 bizarre
 black
-black-and-blue
 blamable
 blameless
 bland
@@ -336,7 +331,6 @@ blistering
 bloated
 blonde
 bloodied
-blood-red
 bloodthirsty
 bloody
 blooming
@@ -386,7 +380,6 @@ brick
 brief
 bright
 bright-eyed
-bright-red
 brilliant
 briny
 brisk
@@ -537,9 +530,7 @@ cliquish
 clogged
 cloistered
 close
-closeable
 closed
-close-minded
 cloudless
 cloudy
 clownish
@@ -1047,7 +1038,6 @@ doubting
 dovish
 dowdy
 down
-down-and-out
 downhearted
 downloadable
 downtown
@@ -1092,8 +1082,7 @@ each
 eager
 early
 earnest
-ear-piercing
-ear-splitting
+earsplitting
 earthshaking
 earthy
 east
@@ -1291,14 +1280,11 @@ extensive
 exterior
 external
 extra
-extra-large
 extraneous
 extraordinary
-extra-small
 extravagant
 extreme
 exuberant
-eye-popping
 fabled
 fabulous
 facetious
@@ -1336,7 +1322,6 @@ fashionable
 fast
 fastest
 fastidious
-fast-moving
 fat
 fatal
 fateful
@@ -1468,7 +1453,6 @@ fortuitous
 fortunate
 forward
 foul
-foul-smelling
 four
 fourth
 foxy
@@ -1515,7 +1499,6 @@ frustrating
 fulfilled
 fulfilling
 full
-fully-grown
 fumbling
 fuming
 fun
@@ -1636,7 +1619,7 @@ gross
 grotesque
 grouchy
 growling
-grown-up
+grownup
 grubby
 grueling
 gruesome
@@ -1646,7 +1629,6 @@ grumpy
 guaranteed
 guarded
 guiltless
-guilt-ridden
 guilty
 gullible
 gurgling
@@ -1670,7 +1652,6 @@ haphazard
 hapless
 happy
 hard
-hard-to-find
 hardworking
 hardy
 harebrained
@@ -1714,7 +1695,6 @@ highfalutin
 high-functioning
 high-maintenance
 high-pitched
-high-risk
 hilarious
 his
 hissing
@@ -1747,12 +1727,9 @@ horrifying
 hospitable
 hostile
 hot
-hotpink
 hot-blooded
 hotheaded
-hot-shot
-hot-tempered
-hour-long
+hotshot
 house
 howling
 huffy
@@ -1780,7 +1757,7 @@ husky
 hydraulic
 hydrothermal
 hygienic
-hyper-active
+hyperactive
 hyperbolic
 hypercritical
 hyperirritable
@@ -1793,7 +1770,6 @@ hysterical
 icky
 iconoclastic
 icy
-icy-cold
 ideal
 idealistic
 identical
@@ -2114,7 +2090,6 @@ irate
 iridescent
 irksome
 iron
-iron-fisted
 ironic
 irrational
 irreconcilable
@@ -2138,7 +2113,6 @@ irritating
 isolated
 itchy
 its
-itty-bitty
 jabbering
 jaded
 jagged
@@ -2240,7 +2214,6 @@ lenient
 less
 lesser
 lesser-known
-less-qualified
 lethal
 lethargic
 level
@@ -2253,10 +2226,8 @@ lifeless
 lifelike
 lifelong
 light
-light-blue
 lighthearted
 likable
-likeable
 likely
 like-minded
 lily-livered
@@ -2307,18 +2278,13 @@ loud
 lousy
 loutish
 lovable
-loveable
 lovely
 loving
 low
-low-calorie
-low-carb
 lower
-low-fat
+lowfat
 lowly
 low-maintenance
-low-ranking
-low-risk
 loyal
 lucent
 lucid
@@ -2371,7 +2337,7 @@ maniacal
 manic
 manicured
 manipulative
-man-made
+manmade
 manual
 many,
 marbled
@@ -2408,7 +2374,6 @@ medical
 medicinal
 meditative
 medium
-medium-rare
 meek
 melancholy
 mellow
@@ -2434,7 +2399,6 @@ meticulous
 microscopic
 microwaveable
 middle
-middle-class
 midweek
 mighty
 mild
@@ -2481,7 +2445,6 @@ moldy
 momentary
 momentous
 monetary
-money-grubbing
 monopolistic
 monosyllabic
 monotone
@@ -2549,7 +2512,6 @@ naive
 nameless
 narcissistic
 narrow
-narrow-minded
 nasal
 nasty
 national
@@ -2560,7 +2522,6 @@ nauseating
 nauseous
 nautical
 navigable
-navy-blue
 near
 nearby
 nearest
@@ -2579,7 +2540,6 @@ negligible
 negotiable
 neighborly
 neither
-nerve-racking
 nervous
 neurological
 neurotic
@@ -2587,7 +2547,6 @@ neutral
 new
 newest
 next
-next-door
 nice
 nifty
 nightmarish
@@ -2695,7 +2654,6 @@ ominous
 omniscient
 omnivorous
 one
-one-hour
 onerous
 one-sided
 only
@@ -2892,8 +2850,6 @@ pigheaded
 pink
 pious
 piquant
-pitch-dark
-pitch-perfect
 piteous
 pithy
 pitiful
@@ -2919,7 +2875,7 @@ plodding
 plopping
 plucky
 plump
-pluralistic
+plural
 plus
 plush
 pneumatic
@@ -2931,7 +2887,6 @@ poisonous
 polished
 polite
 political
-polka-dotted
 polluted
 polyunsaturated
 pompous
@@ -3111,13 +3066,7 @@ queenly
 querulous
 questionable
 quick
-quick-acting
-quick-drying
 quickest
-quick-minded
-quick-paced
-quick-tempered
-quick-thinking
 quick-witted
 quiet
 quintessential
@@ -3133,7 +3082,6 @@ radical
 radioactive
 ragged
 raging
-rainbowcolored
 rainy
 rakish
 rambling
@@ -3158,7 +3106,6 @@ ravenous
 raving
 ravishing
 raw
-razor-edged
 reactive
 ready
 real
@@ -3183,7 +3130,6 @@ rectifiable
 recurrent
 recyclable
 red
-red-blooded
 reddish
 redeemable
 redolent
@@ -3428,7 +3374,7 @@ seasonal
 secluded
 second
 secondary
-second-hand
+secondhand
 secret
 secretive
 secular
@@ -3530,7 +3476,7 @@ sick
 sickened
 sickening
 sickly
-side-splitting
+sidesplitting
 signed
 significant
 silent
@@ -3548,7 +3494,7 @@ simultaneous
 sincere
 sinful
 single
-single-minded
+singleminded
 singular
 sinister
 sinuous
@@ -3562,10 +3508,8 @@ sketchy
 skilled
 skillful
 skimpy
-skin-deep
 skinny
 skittish
-sky-blue
 slanderous
 slanted
 slanting
@@ -3592,9 +3536,7 @@ small
 smaller
 smallest
 small-minded
-small-scale
-small-time
-small-town
+smalltime
 smarmy
 smart
 smarter
@@ -3622,12 +3564,10 @@ snoopy
 snooty
 snoring
 snotty
-snow-white
 snug
 snuggly
 soaked
 soaking
-soakingwet
 soaring
 sober
 sociable
@@ -3728,6 +3668,7 @@ squawking
 squealing
 squeamish
 squeezable
+squiffy
 squiggly
 squirming
 squirrelly
@@ -3957,7 +3898,6 @@ tedious
 teenage
 teensy
 teeny
-teeny-tiny
 telegraphic
 telekinetic
 telepathic
@@ -3975,7 +3915,6 @@ tenable
 tenacious
 tender
 tenderhearted
-ten-minute
 tense
 tentative
 tenth
@@ -4051,7 +3990,7 @@ tiring
 tolerable
 tolerant
 tonal
-tone-deaf
+tonedeaf
 toneless
 toothsome
 toothy
@@ -4549,7 +4488,6 @@ upsetting
 upstairs
 uptight
 up-to-date
-up-to-the-minute
 upward
 urbane
 urgent
@@ -4678,7 +4616,7 @@ wearisome
 weary
 wee
 weedy
-week-long
+weeklong
 weekly
 weightless
 weighty
@@ -4707,7 +4645,6 @@ well-heeled
 well-honed
 well-informed
 well-intentioned
-well-kempt
 well-known
 well-liked
 well-lit
@@ -5107,13 +5044,12 @@ argument
 arithmetic
 ark
 arm
-arm-rest
+armrest
 armadillo
 armament
 armchair
 armoire
 armor
-armour
 armpit
 armrest
 army
@@ -5217,9 +5153,8 @@ babushka
 baby
 bachelor
 back
-back-up
+backup
 backbone
-backburn
 backdrop
 background
 backpack
@@ -5370,7 +5305,6 @@ beneficiary
 benefit
 beret
 berry
-best-seller
 bestseller
 bet
 beverage
@@ -5398,7 +5332,7 @@ biosphere
 biplane
 birch
 bird
-bird-watcher
+birdwatcher
 birdbath
 birdcage
 birdhouse
@@ -5561,7 +5495,7 @@ broad
 broadcast
 broccoli
 brochure
-brocolli
+broccoli
 broiler
 broker
 bronchitis
@@ -5601,7 +5535,7 @@ building
 bulb
 bulk
 bull
-bull-fighter
+bullfighter
 bulldozer
 bullet
 bump
@@ -5617,7 +5551,7 @@ burglar
 burial
 burlesque
 burn
-burn-out
+burnout
 burning
 burrito
 burro
@@ -5640,7 +5574,6 @@ buyer
 buying
 buzz
 buzzard
-c-clamp
 cabana
 cabbage
 cabin
@@ -5893,7 +5826,7 @@ chinchilla
 chino
 chip
 chipmunk
-chit-chat
+chitchat
 chivalry
 chive
 chives
@@ -6008,7 +5941,6 @@ club
 clue
 cluster
 clutch
-co-producer
 coach
 coal
 coalition
@@ -6229,7 +6161,7 @@ cooperation
 coordination
 coordinator
 cop
-cop-out
+copout
 cope
 copper
 copy
@@ -6273,12 +6205,10 @@ councilor
 councilperson
 counsel
 counseling
-counselling
 counsellor
 counselor
 count
 counter
-counter-force
 counterpart
 counterterrorism
 countess
@@ -6387,7 +6317,7 @@ cube
 cuckoo
 cucumber
 cue
-cuff-link
+cufflink
 cuisine
 cultivar
 cultivator
@@ -6485,7 +6415,7 @@ decadence
 decency
 decimal
 decision
-decision-making
+decisionmaking
 deck
 declaration
 declination
@@ -6808,9 +6738,7 @@ dynamite
 dynamo
 dynasty
 dysfunction
-e-book
-e-mail
-e-reader
+email
 eagle
 eaglet
 ear
@@ -6995,7 +6923,6 @@ evaluator
 evaporation
 eve
 evening
-evening-wear
 event
 everybody
 everyone
@@ -7092,7 +7019,6 @@ faith
 faithful
 fall
 fallacy
-falling-out
 fame
 familiar
 familiarity
@@ -7101,7 +7027,6 @@ fan
 fang
 fanlight
 fanny
-fanny-pack
 fantasy
 farm
 farmer
@@ -7229,7 +7154,7 @@ flicker
 flight
 flint
 flintlock
-flip-flops
+flipflops
 flock
 flood
 floodplain
@@ -7372,7 +7297,7 @@ gaffer
 gain
 gaiters
 gale
-gall-bladder
+gallbladder
 gallery
 galley
 gallon
@@ -7381,7 +7306,6 @@ gambling
 game
 gamebird
 gaming
-gamma-ray
 gander
 gang
 gap
@@ -7473,7 +7397,7 @@ glut
 glutamate
 gnat
 gnu
-go-kart
+gokart
 goal
 goat
 gobbler
@@ -7490,7 +7414,6 @@ golf
 gondola
 gong
 good
-good-bye
 goodbye
 goodie
 goodness
@@ -7505,7 +7428,6 @@ governance
 government
 governor
 gown
-grab-bag
 grace
 grade
 gradient
@@ -7522,7 +7444,6 @@ grandchild
 granddaughter
 grandfather
 grandma
-grandmom
 grandmother
 grandpa
 grandparent
@@ -7545,8 +7466,6 @@ gravity
 gravy
 gray
 grease
-great-grandfather
-great-grandmother
 greatness
 greed
 green
@@ -7607,8 +7526,6 @@ hair
 haircut
 hake
 half
-half-brother
-half-sister
 halibut
 hall
 halloween
@@ -7620,7 +7537,6 @@ hammer
 hammock
 hamster
 hand
-hand-holding
 handball
 handful
 handgun
@@ -7634,10 +7550,9 @@ handsaw
 hanger
 happening
 happiness
-harald
 harbor
 harbour
-hard-hat
+hardhat
 hardboard
 hardcover
 hardening
@@ -7682,11 +7597,11 @@ headphones
 headquarters
 headrest
 health
-health-care
+healthcare
 hearing
 hearsay
 heart
-heart-throb
+heartthrob
 heartache
 heartbeat
 hearth
@@ -7733,7 +7648,7 @@ hiccups
 hide
 hierarchy
 high
-high-rise
+highrise
 highland
 highlight
 highway
@@ -7862,10 +7777,8 @@ hypochondria
 hypothermia
 hypothesis
 ice
-ice-cream
 iceberg
 icebreaker
-icecream
 icicle
 icing
 icon
@@ -7911,7 +7824,6 @@ impropriety
 improvement
 impudence
 impulse
-in-joke
 in-laws
 inability
 inauguration
@@ -8147,7 +8059,7 @@ keyboard
 keyboarding
 keystone
 kick
-kick-off
+kickoff
 kid
 kidney
 kielbasa
@@ -8177,12 +8089,11 @@ knee
 kneejerk
 knickers
 knife
-knife-edge
 knight
 knitting
 knock
 knot
-know-how
+knowhow
 knowledge
 knuckle
 koala
@@ -8460,7 +8371,6 @@ maintainer
 maintenance
 maize
 major
-major-league
 majority
 makeover
 maker
@@ -8629,7 +8539,6 @@ microlending
 micronutrient
 microphone
 microwave
-mid-course
 midden
 middle
 middleman
@@ -8662,7 +8571,7 @@ mine
 mineral
 mineshaft
 mini
-mini-skirt
+miniskirt
 minibus
 minimalism
 minimum
@@ -8672,7 +8581,6 @@ minister
 mink
 minnow
 minor
-minor-league
 minority
 mint
 minute
@@ -8777,7 +8685,6 @@ mouser
 mousse
 moustache
 mouth
-mouton
 movement
 mover
 movie
@@ -8797,9 +8704,8 @@ musculature
 museum
 mushroom
 music
-music-box
-music-making
 musician
+We are the music makers, and we are the dreamers of dreams.
 muskrat
 mussel
 mustache
@@ -8961,7 +8867,6 @@ octopus
 odometer
 odyssey
 oeuvre
-off-ramp
 offence
 offense
 offer
@@ -9324,8 +9229,6 @@ pilot
 pimp
 pimple
 pin
-pinafore
-pince-nez
 pine
 pineapple
 pinecone
@@ -9354,7 +9257,6 @@ pizza
 place
 placebo
 placement
-placode
 plagiarism
 plain
 plaintiff
@@ -9365,7 +9267,6 @@ planning
 plant
 plantation
 planter
-planula
 plaster
 plasterboard
 plastic
@@ -9402,7 +9303,7 @@ plunger
 plywood
 pneumonia
 pocket
-pocket-watch
+pocketwatch
 pocketbook
 pod
 podcast
@@ -9412,9 +9313,7 @@ poetry
 poignance
 point
 poison
-poisoning
 poker
-polarisation
 polarization
 pole
 polenta
@@ -9463,10 +9362,8 @@ possibility
 possible
 post
 postage
-postbox
 poster
 posterior
-postfix
 pot
 potato
 potential
@@ -9581,7 +9478,7 @@ prompt
 pronoun
 pronunciation
 proof
-proof-reader
+proofreader
 propaganda
 propane
 property
@@ -9961,7 +9858,7 @@ robotics
 rock
 rocker
 rocket
-rocket-ship
+rocketship
 rod
 role
 roll
@@ -10119,7 +10016,6 @@ screen
 screening
 screenwriting
 screw
-screw-up
 screwdriver
 scrim
 scrip
@@ -10130,7 +10026,6 @@ sculpting
 sculptural
 sculpture
 sea
-seabass
 seafood
 seagull
 seal
@@ -10252,7 +10147,7 @@ shit
 shoat
 shock
 shoe
-shoe-horn
+shoehorn
 shoehorn
 shoelace
 shoemaker
@@ -10260,7 +10155,6 @@ shoes
 shoestring
 shofar
 shoot
-shootdown
 shop
 shopper
 shopping
@@ -10275,7 +10169,6 @@ shoulder
 shout
 shovel
 show
-show-stopper
 shower
 shred
 shrimp
@@ -10332,7 +10225,6 @@ situation
 size
 skate
 skating
-skean
 skeleton
 ski
 skiing
@@ -10591,7 +10483,6 @@ state
 statement
 statin
 station
-station-wagon
 statistic
 statistics
 statue
@@ -10608,19 +10499,11 @@ stem
 stench
 stencil
 step
-step-aunt
-step-brother
-step-daughter
-step-father
-step-grandfather
-step-grandmother
-step-mother
-step-sister
-step-son
-step-uncle
+stepbrother
 stepdaughter
+stepfather
 stepmother
-stepping-stone
+stepsister
 stepson
 stereo
 stew
@@ -10633,11 +10516,9 @@ stimulation
 stimulus
 sting
 stinger
-stir-fry
 stitch
 stitcher
 stock
-stock-in-trade
 stockings
 stole
 stomach
@@ -10649,10 +10530,9 @@ stopsign
 stopwatch
 storage
 store
-storey
 storm
 story
-story-telling
+storytelling
 storyboard
 stot
 stove
@@ -10835,7 +10715,6 @@ tactile
 tadpole
 tag
 tail
-tailbud
 tailor
 tailspin
 take-out
@@ -10844,7 +10723,6 @@ tale
 talent
 talk
 talking
-tam-o'-shanter
 tamale
 tambour
 tambourine
@@ -10852,7 +10730,7 @@ tan
 tandem
 tangerine
 tank
-tank-top
+tanktop
 tanker
 tankful
 tap
@@ -11027,7 +10905,6 @@ toilet
 tolerance
 tolerant
 toll
-tom-tom
 tomatillo
 tomato
 tomb
@@ -11046,7 +10923,6 @@ toothbrush
 toothpaste
 toothpick
 top
-top-hat
 topic
 topsail
 toque
@@ -11061,12 +10937,10 @@ tosser
 total
 tote
 touch
-tough-guy
 tour
 tourism
 tourist
 tournament
-tow-truck
 towel
 tower
 town
@@ -11175,7 +11049,6 @@ tumbler
 tummy
 tuna
 tune
-tune-up
 tunic
 tunnel
 turban
@@ -11410,7 +11283,7 @@ wardrobe
 warfare
 warlock
 warlord
-warm-up
+warmup
 warming
 warmth
 warning
@@ -11470,7 +11343,6 @@ well
 well-being
 west
 western
-wet-bar
 wetland
 wetsuit
 whack
@@ -11507,7 +11379,7 @@ willingness
 willow
 win
 wind
-wind-chime
+windchime
 windage
 window
 windscreen
@@ -11529,7 +11401,6 @@ wish
 wisteria
 wit
 witch
-witch-hunt
 withdrawal
 witness
 wok
@@ -11620,7 +11491,6 @@ zone
 zoo
 zoologist
 zoology
-zoot-suit
 zucchini
 abandon
 abate
@@ -11663,7 +11533,6 @@ accustom
 acerbate
 ache
 achieve
-acidify
 acknowledge
 acquaint
 acquiesce
