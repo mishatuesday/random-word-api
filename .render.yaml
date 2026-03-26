@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: random-word-api
+    env: python
+    plan: free
+    buildCommand: python -m pip install --upgrade pip && python -m pip install -r requirements.txt
+    startCommand: python app.py
