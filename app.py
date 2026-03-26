@@ -12,8 +12,8 @@ with open("words.txt", "r") as file:
 @app.route("/random-word")
 def random_word():
     if not words:
-        return "words not found", 500
-    return random.choice(words)
+        return jsonify(["words not found"]), 500
+    return jsonify([random.choice(words)])
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=10000)
