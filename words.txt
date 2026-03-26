@@ -4981,13 +4981,10 @@ alligator
 allocation
 allowance
 alloy
-alluvium
 almanac
 almighty
 almond
 alpaca
-alpenglow
-alpenhorn
 alpha
 alphabet
 altar
@@ -6579,7 +6576,6 @@ deviation
 device
 devil
 dew
-dhow
 diabetes
 diadem
 diagnosis
@@ -6587,7 +6583,6 @@ diagram
 dial
 dialect
 dialogue
-diam
 diamond
 diaper
 diaphragm
@@ -6614,7 +6609,6 @@ digger
 digging
 digit
 dignity
-dilapidation
 dill
 dilution
 dime
@@ -6683,7 +6677,6 @@ distribution
 distributor
 district
 divalent
-divan
 diver
 diversity
 divide
@@ -6704,6 +6697,7 @@ documentation
 doe
 dog
 doggie
+dogpile
 dogsled
 dogwood
 doing
@@ -9223,7 +9217,6 @@ pedal
 peek
 peen
 peer
-peer-to-peer
 pegboard
 pelican
 pelt
@@ -9603,8 +9596,6 @@ prosecution
 prosecutor
 prospect
 prosperity
-prostacyclin
-prostanoid
 prostrate
 protection
 protein
