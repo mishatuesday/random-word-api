@@ -1,13 +1,18 @@
-from flask import Flask, Response 
-import random 
-app = Flask(__name__) 
+from flask import Flask, jsonify
+import random
 
-@app.route('/random-word', methods=['GET']) 
-def random_word(): 
-	with open('words.txt', 'r') as file: 
-		words = file.read().splitlines() 
-	word = random.choice(words) 
-	return Response(word, mimetype='text/plain') 
+app = Flask(__name__)
 
-if __name__ == '__main__': 
-	app.run(host='0.0.0.0', port=5000)
+# Load words from words.txt
+with open("words.txt", "r") as file:
+    words = [line.strip() for line in file if line.strip()]
+
+@app.route("/random")
+def random_word():
+    if not words:
+        return jsonify({"error": "No words available"}), 500
+    return jsonify({"word": random.choice(words)})
+
+if __name__ == "__main__":
+    # Run directly on Render, port 10000
+    app.run(host="0.0.0.0", port=10000)
