@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/random-word', methods=['GET']) 
 def random_word(): 
-	with open('words.txt', 'r')) as file: 
+	with open('words.txt', 'r') as file: 
 		words = file.read().splitlines() 
 	word = random.choice(words) 
 	return Response(word, mimetype='text/plain') 
